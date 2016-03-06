@@ -2,10 +2,6 @@
 
 ## Proyecto dedicado a la asignatura de infraestructura virtual
 
-[![Build Status](https://travis-ci.org/luqueburgosjm/RSMapWeb.svg?branch=master)](https://travis-ci.org/luqueburgosjm/RSMapWeb)
-[ ![Codeship Status for luqueburgosjm/RSMapWeb](https://codeship.com/projects/43ccd7d0-9dfc-0133-9c1d-6aac2b19c75b/status?branch=master)](https://codeship.com/projects/127675)
-[![Build Status](https://snap-ci.com/luqueburgosjm/RSMapWeb/branch/master/build_image)](https://snap-ci.com/luqueburgosjm/RSMapWeb/branch/master)
-
 [![Heroku Deploy](https://upload.wikimedia.org/wikipedia/en/a/a9/Heroku_logo.png)](http://rsmapweb.herokuapp.com/)
 
 [![Azure Deploy](http://www.tufin.com/wp-content/uploads/2015/09/ms-azure-logo-240x41.png)](http://rsmap.cloudapp.net/)
